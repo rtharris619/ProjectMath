@@ -1,5 +1,3 @@
-import Algebra.Symbolic as Symbolic
-import Algebra.LineGraph as LineGraph
+import Statistics.PandasIntro as PI
 
-
-LineGraph.tests()
+PI.driver()
